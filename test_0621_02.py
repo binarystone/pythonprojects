@@ -4,4 +4,4 @@ while i < len(data):
     if data[i] == "a": 		
         print(i) 		
         break 	
-i += 1
+    i += 1
