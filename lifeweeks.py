@@ -1,3 +1,5 @@
+# Calculate weeks lived and remaining weeks based on life expectancy
+
 age = int(input("How old are you? "))
 life_expectancy = int(input("What is your expected life expectancy? "))
 
